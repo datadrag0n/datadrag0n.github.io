@@ -1,0 +1,9 @@
+@font-face {
+font-family: "DIN Next W1G Medium";
+src: url("DIN Next W1G Medium.eot") format("eot"); /* IE9 Compat Modes */
+src: url("DIN Next W1G Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("DIN Next W1G Medium.woff") format("woff"), /* Modern Browsers */
+     url("DIN Next W1G Medium.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
